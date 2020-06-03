@@ -1,4 +1,4 @@
-# MRZVIS2
+# MRZVIS2 Киневич Т.О., Андреев Г.С., гр. 821703
 Результат работы программы: 
 
 ![1](https://github.com/unicode256/MRZVIS2/blob/master/images/1.png) 
