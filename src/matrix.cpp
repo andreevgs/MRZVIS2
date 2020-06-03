@@ -7,8 +7,8 @@
 std::mutex mut;
 
 Matrix::Matrix() {
-	n_ = 1 + std::rand() % 5;
-	m_ = 1 + std::rand() % 5;
+	n_ = 1 + std::rand() % 10;
+	m_ = 1 + std::rand() % 10;
 	for (auto i = 0; i < n_; i++) {
 		std::vector<double> vec;
 		for (int j = 0; j < m_; j++) {
